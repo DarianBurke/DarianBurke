@@ -1,30 +1,41 @@
-<h1>Hi, I'm Darian! </h1>
+# Hi there 👋 I'm Darian!
 
-<h2>👨‍💻 Featured Projects:</h2>
+Building knowledge and experience through hands-on experimentation
 
-- <b>Creating VM Home Lab</b>
-  - [Practice setting up VMs](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+---
+## 🛠️ Projects
 
-<h2>📺 Popular YouTube Videos</h2>
+### 🖥️ [Windows VM Networking Lab](https://github.com/yourusername/windows-vm-network-lab)
+Created a dual-Windows VM lab in VirtualBox to practice basic networking.  
+Includes NAT and Host-Only adapters to simulate internet access and internal communication.  
+✅ Verified internal connectivity, tested pings, and laid the groundwork for file sharing and remote administration.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+---
+
+## 📚 Learning Goals
+- Master Windows and Linux system administration
+- Build homelab projects and share my progress
+- Learn PowerShell, bash scripting, and basic automation
+- Explore cybersecurity and ethical hacking labs
+
+---
+
+## 🧰 Tools & Tech
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)
+
+---
+
+## 📫 Contact Me
+- [LinkedIn](https://linkedin.com/in/yourusername)  
+- Email: darian_burke.tech@outlook.com
+
+---
+
+*Thanks for visiting! This profile is under active development as I build and share more of my learning journey.*
+
 
 <h2> 🤳 Connect with me:</h2>
 
