@@ -5,7 +5,7 @@ Building knowledge and experience through hands-on experimentation
 ---
 ## 🛠️ Projects
 
-### 🖥️ [Windows VM Networking Lab](https://github.com/yourusername/windows-vm-network-lab)
+### 🖥️ [Windows VM Networking Lab](https://github.com/DarianBurke/VM_Lab)
 
 ---
 
