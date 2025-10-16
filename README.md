@@ -8,7 +8,12 @@ Building knowledge and experience through hands-on experimentation
 ### 🖥️ [Windows VM Networking Lab](https://github.com/DarianBurke/VM_Lab)
 
 ---
+## 🎓 Education
 
+**Associates of Applied Science – Cybersecurity**  
+- St. Philips College, San Antonio, TX | Graduated May 2023  
+
+---
 ## 📫 Contact Me
 - [LinkedIn](https://linkedin.com/in/yourusername)  
 - Email: darian_burke.tech@outlook.com
