@@ -12,7 +12,8 @@ Building knowledge and experience through hands-on experimentation
 ## 🎓 Education
 
 **Associates of Applied Science – Cybersecurity**  
-- St. Philips College, San Antonio, TX | Graduated May 2023  
+- St. Philips College, San Antonio, TX | Graduated May 2023
+  -Actively pursuing ---  
 
 ---
 ## 📫 Contact Me
