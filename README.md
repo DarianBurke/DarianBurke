@@ -13,7 +13,7 @@ Building knowledge and experience through hands-on experimentation
 
 **Associates of Applied Science – Cybersecurity**  
 - St. Philips College, San Antonio, TX | Graduated May 2023
-  -Actively pursuing ---  
+
 
 ---
 ## 📫 Contact Me
