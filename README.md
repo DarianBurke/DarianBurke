@@ -17,7 +17,7 @@ Building knowledge and experience through hands-on experimentation
 
 ---
 ## 📫 Contact Me
-- [LinkedIn](https://linkedin.com/in/yourusername)  
+- [LinkedIn]()  
 - Email: darian_burke.tech@outlook.com
 
 ---
