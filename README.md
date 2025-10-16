@@ -6,6 +6,7 @@ Building knowledge and experience through hands-on experimentation
 ## 🛠️ Projects
 
 ### 🖥️ [Windows VM Networking Lab](https://github.com/DarianBurke/VM_Lab)
+### 🌐 [Network Connectivity Checker](https://github.com/DarianBurke/network-connectivity-checker)
 
 ---
 ## 🎓 Education
