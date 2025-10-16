@@ -17,8 +17,8 @@ Building knowledge and experience through hands-on experimentation
 
 ---
 ## 📫 Contact Me
-- [LinkedIn]()  
 - Email: darian_burke.tech@outlook.com
+- Phone: (210) 873-0434
 
 ---
 
